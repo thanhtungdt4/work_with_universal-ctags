@@ -1,1 +1,2 @@
-# work_with_universal-ctags
+cp .vimrc ~/.vimrc
+run: ./gen_tags.sh in the source code folder
